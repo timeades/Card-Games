@@ -10,7 +10,8 @@ body {
     gap: .5rem;
     cursor: pointer;
     justify-content: center;
-    padding-top: 1rem;
+    padding-top: 10rem;
+    background-color: skyblue;
 }
 
 .deck {
