@@ -6,6 +6,8 @@ a Halloween themed game of pairs.
 
 Currently set for a 1 minute countdown but this can be set in the script.js, by changing the value in let game = new MixOrMatch(100, cards) in the ready function, to any desired length.
 
+One known bug where the animation of the card icons does not happen in webkit/Safari - still investigating this issue.
+
 # card game war
 
 A simple game of highest card wins round. 
